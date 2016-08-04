@@ -1,0 +1,37 @@
+_repo: Perfect-Behavior--A-Guide-for-Ladies-and-Gentlemen-in-All-Social-Crises_1446
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Barton, Ralph
+    birthdate: 1891
+    deathdate: 1931
+    gutenberg_agent_id: '41773'
+    url: http://www.gutenberg.org/2009/agents/41773
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Barton
+creator:
+  author:
+    agent_name: Stewart, Donald Ogden
+    alias: Ogden Stewart, Donald
+    birthdate: 1894
+    deathdate: 1980
+    gutenberg_agent_id: '636'
+    url: http://www.gutenberg.org/2009/agents/636
+description: ''
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Etiquette -- Humor'
+- GITenberg
+tableOfContents: The etiquette of courtship -- The etiquette of engagements and weddings
+  -- The etiquette of travel -- At the concert and the opera -- Etiquette for dry
+  agents -- A chapter for schoolgirls -- The etiquette of games and sports -- Correspondence
+  and invitations -- The etiquette of dinners and balls.
+title: 'Perfect Behavior: A Guide for Ladies and Gentlemen in All Social Crises'
+url: http://www.gutenberg.org/ebooks/1446
