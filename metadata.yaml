@@ -1,5 +1,5 @@
 _repo: Perfect-Behavior--A-Guide-for-Ladies-and-Gentlemen-in-All-Social-Crises_1446
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Barton, Ralph
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '41773'
     url: http://www.gutenberg.org/2009/agents/41773
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Barton
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stewart, Donald Ogden
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '636'
     url: http://www.gutenberg.org/2009/agents/636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1446#Perfect-Behavior--A-Guide-for-Ladies-and-Gentlemen-in-All-Social-Crises
 gutenberg_issued: '1998-09-01'
 gutenberg_type: Text
 identifiers:
